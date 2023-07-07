@@ -1,1 +1,0 @@
-import{o as a,c as s,a as t,b as e,F as o,S as c,g as n}from"./index-8320d050.js";const r=t("div",{style:{"padding-top":"30px"}},null,-1),_={class:"container"},m={__name:"New",setup(l){return(d,i)=>(a(),s(o,null,[r,t("div",_,[e(c,{title:"NEW"}),e(n)])],64))}};export{m as default};
