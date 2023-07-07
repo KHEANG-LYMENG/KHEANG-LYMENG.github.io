@@ -1,1 +1,0 @@
-import{o as t,c as a,b as e,F as s,a as o,S as c,g as n}from"./index-71ffe31c.js";const r=o("div",{style:{"padding-top":"30px"}},null,-1),i={__name:"BestSell",setup(l){return(_,p)=>(t(),a(s,null,[r,e(c,{title:"BEST SELL"}),e(n)],64))}};export{i as default};

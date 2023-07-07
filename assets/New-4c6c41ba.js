@@ -1,1 +1,0 @@
-import{o as a,c as t,b as e,F as s,a as o,S as c,g as n}from"./index-71ffe31c.js";const r=o("div",{style:{"padding-top":"30px"}},null,-1),i={__name:"New",setup(l){return(_,p)=>(a(),t(s,null,[r,e(c,{title:"NEW"}),e(n)],64))}};export{i as default};
